@@ -1,4 +1,6 @@
-# CrystalVolley
+::Note:: CrystalVolley by Soliserio is now TradeVolley.  This version is still usable with Crystals only.  
+
+# CrystalVolley 
 
 A Windower addon that automatically trades crystals and clusters from Inventory to a nearby Ephemeral Moogle.
 
